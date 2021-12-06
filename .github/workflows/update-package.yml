@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - run: ls ${{ github.workspace }}
       # Checkout
       - uses: actions/checkout@v2
       - name: Output package.json (Before)
