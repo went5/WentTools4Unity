@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  TARGET_FILE: ./Assets/WSTools4Unity/package.json
+  TARGET_FILE: ./Assets/WentTools4Unity/package.json
 
 jobs:
   update-packagejson:
