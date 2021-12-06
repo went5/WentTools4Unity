@@ -5,8 +5,8 @@ using UnityEngine;
 
 public static class PackageExporter
 {
-    public const string RootDirectory = "Assets/WSTools4Unity";
-    public const string FileName = "WSTools4Unity";
+    public const string RootDirectory = "Assets/WentTools4Unity";
+    public const string FileName = "WentTools4Unity";
 
     /// <summary>
     /// パッケージの書き出し(エディタ上でのテスト用)
