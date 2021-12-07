@@ -6,4 +6,4 @@
 
 
 ## TODO
-- [ ] Automatically export Unity Package
+- [x] Automatically export Unity Package
